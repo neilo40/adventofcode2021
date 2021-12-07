@@ -73,7 +73,7 @@ func day7_2() {
 		}
 	}
 
-	log.Println("Minimum amount of fuel needed (cran engine model) is", minFuel)
+	log.Println("Minimum amount of fuel needed (crab engine model) is", minFuel)
 }
 
 func fuelUsed(start int, end int) int {
