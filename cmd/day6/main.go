@@ -9,7 +9,7 @@ import (
 
 func main() {
 	day6(80)
-	day6(256)
+	day6(256) // doesn't complete.  try recursive function?
 }
 
 func day6(iterations int) {
